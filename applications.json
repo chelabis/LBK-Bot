@@ -1,0 +1,44 @@
+[
+    {
+        "job_id": 2,
+        "job_title": "TradFi (Stock) Business Development",
+        "username": "sajelabi",
+        "name": "David Wang",
+        "email": "David@sample1.com",
+        "location": "Dubai",
+        "job_status": "Resigned",
+        "prev_salary": "2000U",
+        "expected_salary": "3000U",
+        "start_date": "Tomorrow",
+        "social": "No",
+        "resume_path": "resumes/BQACAgQAAxkBAANsaepnHEYvYl7aHcVn_9WRqtAbzikAAk4bAAIDbFBThFbJ0jxdQCs7BA.pdf"
+    },
+    {
+        "job_id": 1,
+        "job_title": "Customer Service Specialist",
+        "username": "sajelabi",
+        "name": "Amanda Mir",
+        "email": "Amanda@sample2.com",
+        "location": "Turkey",
+        "job_status": "Working",
+        "prev_salary": "1500U",
+        "expected_salary": "2000U",
+        "start_date": "1st May",
+        "social": "No",
+        "resume_path": "resumes/BQACAgQAAxkBAAOEaepn72Znf9dHWHRhbnfaaIvOd9EAAk8bAAIDbFBT43tHPu3JLwABOwQ.pdf"
+    },
+    {
+        "job_id": 4,
+        "job_title": "Trader (Live Streamer)",
+        "username": "sajelabi",
+        "name": "Luis Feredi",
+        "email": "Luis@sample3.com",
+        "location": "Vietnam",
+        "job_status": "Resigned",
+        "prev_salary": "3000U",
+        "expected_salary": "3000U",
+        "start_date": "In a week",
+        "social": "Insta: @luis_sample3",
+        "resume_path": "resumes/BQACAgQAAxkBAAOcaepoea_EpFbmpld7QWfxPv81uvkAAlAbAAIDbFBTBt-ORtfv0Bk7BA.pdf"
+    }
+]
